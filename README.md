@@ -10,5 +10,5 @@ This site will eventually contain a link the related paper.
 The repos mentiond in the paper are shown below.
 
 | Repo name              | Decription                                               |
-+------------------------+----------------------------------------------------------+
+|:---------------------- | :------------------------------------------------------- |
 | pymolsnips             | Code templates for the molecular graphics program PyMOL. |
