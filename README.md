@@ -11,4 +11,4 @@ The repos mentiond in the paper are shown below.
 
 | Repo name              | Decription                                               |
 |:---------------------- | :------------------------------------------------------- |
-|[pymolsnips](https://github.com/MooersLab/pymolpysnips)             | Code templates for the molecular graphics program PyMOL. |
+|[pymolpysnips](https://github.com/MooersLab/pymolpysnips)             | Code templates for the molecular graphics program PyMOL. These are written in Python for use with the PyMOL Python API. |
