@@ -5,7 +5,7 @@
 
 This is the repository for SciPy21 poster 160 *Structural Molecular Biology in JupyterLab and Colab* by Blaine Mooers, OUHSC. 
 The preview of the poster is shown below. 
-Click on the icon of the PDF in the list of files above to view the poster on-line.
+Please click on the icon of the PDF in the list of files above to view the poster on-line.
 There will be a **download** button in the upper right above the poster for downloading the file. 
 The corresponding proceedings paper is found [here](http://conference.scipy.org/proceedings/scipy2021/blaine_mooers.html).
 
