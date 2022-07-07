@@ -14,7 +14,7 @@ The corresponding proceedings paper is found [here](http://conference.scipy.org/
 
 
 
-The related repos are listed below.
+My related GitHub repos are listed below.
 
 | Repo name              | Decription                                               |
 |:---------------------- | :------------------------------------------------------- |
