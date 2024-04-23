@@ -14,7 +14,7 @@ The corresponding proceedings paper is found [here](http://conference.scipy.org/
 
 
 
-My related GitHub repos are listed below.
+## Related GitHub repos are listed below.
 
 | Repo name              | Decription                                               |
 |:---------------------- | :------------------------------------------------------- |
@@ -24,3 +24,13 @@ My related GitHub repos are listed below.
 | [colabpymolpysnips](https://github.com/MooersLab/colabpymolpysnips) | For use with incentive PyMOL on Colab.  |
 | [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips) | For use with Open Source PyMOL on Colab.|
 | [Rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) | For use with Rmarkdown.  |
+
+## Related conference paper
+
+[Associated SciPy Proceedings Paper](https://proceedings.scipy.org/articles/gerudo-f2bc6f59-004)
+
+## Funding sources
+
+- NIH: R01 CA242845, R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel); P20GM103640 and P30GM145423 (PI: A. West)
+
