@@ -7,7 +7,7 @@ This is the repository for SciPy21 poster 160 *Structural Molecular Biology in J
 The preview of the poster is shown below. 
 Please click on the icon of the PDF in the list of files above to view the poster on-line.
 There will be a **download** button in the upper right above the poster for downloading the file. 
-The corresponding proceedings paper is found [here](http://conference.scipy.org/proceedings/scipy2021/blaine_mooers.html).
+The PDF of the corresponding proceedings paper is found [here](http://conference.scipy.org/proceedings/scipy2021/blaine_mooers.html).
 
 
 <p align="center"><img src="./poster.png" alt="HTML5 Icon" style="width:400px;height:300px;"></p>
@@ -25,9 +25,9 @@ The corresponding proceedings paper is found [here](http://conference.scipy.org/
 | [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips) | For use with Open Source PyMOL on Colab.|
 | [Rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips) | For use with Rmarkdown.  |
 
-## Related conference paper
+## Related conference paper in 2024 format
 
-[Associated SciPy Proceedings Paper](https://proceedings.scipy.org/articles/gerudo-f2bc6f59-004)
+[Associated SciPy Proceedings Paper](https://proceedings.scipy.org/articles/018ef0b4-06a8-7712-b2d9-b2681cf7e72c)
 
 ## Funding sources
 
